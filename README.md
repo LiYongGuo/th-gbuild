@@ -17,5 +17,5 @@ in your package.json
 # e.g.
     # Runs the app in development mode
     $ th-gbuild develop
-    # Builds the app for production to the `dist` folder
+    # Builds the app
     $ th-gbuild build
